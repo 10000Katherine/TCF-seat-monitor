@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Alliance Francaise Vancouver",
+    "enabled": true,
+    "url": "https://www.alliancefrancaise.ca/en/language/exams/tcf-canada/",
+    "keywords": ["SOLD OUT"]
+  },
+  {
+    "name": "AF Victoria",
+    "enabled": true,
+    "url": "https://www.afvictoria.ca/exams/tcf-canada/",
+    "keywords": ["SOLD OUT"]
+  },
+  {
+    "name": "Ashton Testing",
+    "enabled": false,
+    "url": "https://ashtontesting.ca/products/tcf-canada-test-registration/",
+    "keywords": ["Sold Out"]
+  }
+]

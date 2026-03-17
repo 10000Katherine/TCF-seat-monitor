@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Local secrets/config
+config.env
+
+# Runtime local data
+tcf_monitor_config.json
